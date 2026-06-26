@@ -1,5 +1,5 @@
 # Examen-Pensamiento-Computacional-
-# 🎵 Sound Match
+# Sound Match
 
 ## Descripción
 
@@ -10,7 +10,10 @@ El juego está dividido en tres niveles. En cada uno aparecen tres portadas de �
 Si la respuesta es correcta, se suma un punto y aparece el botón para continuar. Después de completar las tres canciones de un nivel, el juego pasa automáticamente al siguiente. Al finalizar los tres niveles se muestra el puntaje obtenido y la opción de volver a jugar.
 
 ---
+## link p5js
 
+https://editor.p5js.org/florencia.guzman2/sketches/0_-pegQdy
+---
 ## ¿Por qué hice este proyecto?
 
 La idea nació porque me gusta mucho la música y quería hacer un juego donde el sonido fuera el elemento principal, en lugar de centrar todo en lo visual.
